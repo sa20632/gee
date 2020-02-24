@@ -7,7 +7,7 @@ This tool used three different algorithms namely Normal Burn Area Index (BAI),  
 ## Normal Burn Area Index (BAI)
 It is used for forest fire that considerd as one of the biggest natural disaster that may threat the human life and destroy the vegetation in a wide range of area, so it is important for the emergency organization to detect the burn area during the fire to know how to deal with it and response in affected way to save the people and reduce the amount of loses. In this case, we are using Burn Area Index (BAI) to highlight the burnt area especially in a very wide area, using the following formula:
 
-                                                  BAI=1/((0.1+〖Red)〗^2*(0.06-NIR)^2)
+                                                  BAI=1/((0.1+(Red))^2*(0.06-NIR)^2)
 
 Which Red is a red band and NIR is near infrared band, and the values range between 0 and 100.
 The difference between post BAI and pre BAI, will be used to estimate the burn severity, the high value of the difference will represent high severe damage, low and negative values representing the less damage area. 
