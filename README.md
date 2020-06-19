@@ -1,7 +1,7 @@
 # Change detection analysis for emergency management using google earth engine
- Mohammad Alasawedah (M20190644)
+ Mohammad Alasawedah (masawdah@gmail.com)
 
- Filip Loncar  (M20190032)
+ Filip Loncar  (m20190032@novaims.unl.pt)
 
 ## The goal of the project
 This project focus on provide an online tool to help the emergency responders and the decsion makers by detect the effected area by different types of natural disasters. The time is very important in the responce process, so existing an automatic tool will be very helpful to save time consuming by detect the damage area with the possibility to download the results and use them in different analysis with local database.  
