@@ -1,4 +1,4 @@
-# Change Detection Analysis for Emergency Management
+# Change detection analysis for emergency management using google earth engine
  Mohammad Alasawedah (M20190644)
 
  Filip Loncar  (M20190032)
