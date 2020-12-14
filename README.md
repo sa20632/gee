@@ -6,7 +6,7 @@
 ## The goal of the project
 This project focus on provide an online tool to help the emergency responders and the decsion makers by detect the effected area by different types of natural disasters. The time is very important in the responce process, so existing an automatic tool will be very helpful to save time consuming by detect the damage area with the possibility to download the results and use them in different analysis with local database,use on the below link to see the app: 
 
-                                              [https://masawdah.users.earthengine.app/view/emergency-management]
+                                             https://masawdah.users.earthengine.app/view/emergency-management
 
 ## Why Google Engine ?
 This app designed using Google earth engine JavaScript API. One of the most important reasons to use google earth engine (GEE) is a huge amont of imagery data that are available these days and how GEE makes the process of discover them and analyiz them very easy and automated even if the user machine is old and slow, foe more information about google earth engine click [here](googleEngine.md).
