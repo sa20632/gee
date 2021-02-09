@@ -33,7 +33,8 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 </p>
 
 
-                                           The user can select the map layers that appear in the study area.
+                                               The affected area will be added to the map as a separate layer.
+                                            The user can select the layers that want to appear in the study area.
 
 <p align="center">
 <img src="images/5.PNG" />
@@ -41,7 +42,7 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 
 
-5- Cut the affected area, then download it.
+5- Draw a box around the affected area, click on the Cut button, and then click on the Download button.
 
 <p align="center">
 <img src="images/6.PNG" />
