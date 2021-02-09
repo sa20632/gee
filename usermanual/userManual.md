@@ -48,6 +48,6 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 <img src="/images/6.PNG" />
 <p>
   
-[Go Back](README.md)
+[Go Back](/README.md)
 
 
