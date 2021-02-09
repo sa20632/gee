@@ -1,4 +1,4 @@
-# Change detection algorithms
+# Remote Sensing Indices
 This app was developed to help in different emergencies to detect the affected area using various remote sensing indices depending on the type of disaster to get precise results for a damaged area. 
 
 This tool used three different indices, namely Normal Burn Area Index (BAI),  Normalized Difference Water Index (NDWI), and  Normalized Difference Vegetation Index (NDVI). These indices were used for the following disasters forest fire, flood, and deforestation, respectively. 
