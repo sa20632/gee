@@ -54,5 +54,4 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 #container img {
     vertical-align:middle;
-    max-height:100%;
-}
+    max-height:100%;}
