@@ -24,7 +24,7 @@ It was used to detect the burnt area for wildfires in Emperador, Chile, in Febru
 Which Red is a red band and NIR is near infrared band. The value range of the BAI is 0 to 100.
 The difference between post-BAI and pre-BAI was used to estimate the burn severity. The high value of the difference will represent severe damage, low and negative values representing the less damaged area.
 
-## Normalized Difference Water Index (NDWI)
+## Flood: Normalized Difference Water Index (NDWI)
 This index's primary use is monitoring different water bodies. Therefore, it helps to detect the flooded area. NDWI was used to detect the affected area by Russian river flooding in California in February 2019. 
 
 Normalized Difference Water Index (NDWI) calculated using the following formula: 
@@ -34,7 +34,7 @@ Normalized Difference Water Index (NDWI) calculated using the following formula:
  Which NIR is a red band and SWIR is a shortwave infrared. The value range of the NDWI is -1 to 1.
 
 
-## Normalized Difference Vegetation Index (NDVI)
+## Deforestation: Normalized Difference Vegetation Index (NDVI)
 The rainforest is considered the much-effected area by deforestation and losing trees, so it is very important to build a system to monitor the vegetation and detect the much-effected areas by deforestation. Google engine can monitor the vegetation using a time series of images and highlight the affected area. This app shows the capability of GEE for monitoring vegetation. By analyzing the difference of NDVI between two images acquired at different dates.  
 
          
