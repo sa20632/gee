@@ -50,3 +50,9 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 *Fig. 6 - Clip & Download the results*
 
 [Go Back](README.md)
+
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
