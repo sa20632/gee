@@ -1,10 +1,6 @@
 ## The App's Code
 
-This app is an open source, you can find the code on GitHub, after downloading the code you can use it on earth engine code editor  that used as integrated development environment to apply Earth Engine JavaScript API.
-
-
-
-Also, the Google Engine provide a [full tutorial](https://developers.google.com/earth-engine/tutorials) including guide and documentations describing all of the functions and algorithms that you can use to modify the code and improve the functionality. The following steps describe how you can start use the code and work on it: 
+Google Engine provides a [full tutorial](https://developers.google.com/earth-engine/tutorials) including a guide and documentation describing all of the functions and algorithms you can use to modify the code and improve the functionality. The following steps describe how you can use the code in the Google Earth Engine code editor: 
 
 * Download the code from [GitHub](code.js).
 
@@ -14,15 +10,15 @@ Also, the Google Engine provide a [full tutorial](https://developers.google.com/
 
 * Copy the code and past it on the code editor space. 
 
-* Click Run button to run the script and check if it is working.
+* Click the Run button to run the script and check if it is working.
 
-* Click save button to save the code on your account so you can use it every time without repeat the previous steps.
+* Click the save button to save the code on your account so you can use it every time without repeat the previous steps.
 
 
-The following figure shows the google earth engine plateform that can be used by the user to test, rebuild and modify the code.
+The following figure shows the google earth engine platform that the user can use to test, rebuild and modify the code.
 
 ![Earth Engine Code Editor](images/1.png)
-*Fig. 1 - Earth Engine Code Editor*
+*Fig. 1 - The Earth Engine Code Editor*
 
 
 
