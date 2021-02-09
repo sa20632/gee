@@ -11,7 +11,7 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 
 
-2- Select the dates before and after the event from the Date Dlider. Then, click on the "Get the Images" button to tell GEE to find the appropriate images on the selected dates.
+2- Select the dates before and after the event from the Date Slider. Then, click on the "Get the Images" button to tell GEE to find the appropriate images on the selected dates.
 
 <p align="center">
 <img src="images/3.PNG" />
@@ -26,15 +26,15 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 
 
-4- select the type of emergency: deforestation, flood, or forest fires.
+4- Select the type of emergency: deforestation, flood, or forest fires.
 
 <p align="center">
 <img src="images/4.PNG" />
 </p>
 
 
-                                               The affected area will be added to the map as a separate layer.
-                                            The user can select the layers that want to appear in the study area.
+                                            The affected area will be added to the map as a separate layer.
+                                            The user can select the layers that want to appear on the map.
 
 <p align="center">
 <img src="images/5.PNG" />
