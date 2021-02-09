@@ -21,7 +21,7 @@ The code used Google Earth Engine (GEE) through JavaScript API.  It is an open-s
 ## Forest Fire: Burn Area Index (BAI)
 It was used to detect the burnt area for wildfires in Emperador, Chile, in February 2017. In this case, Burn Area Index (BAI) was used to highlight the burnt area, especially in the vast areas, using the following formula:
 
-                                                  BAI=1/((0.1+(Red))^2*(0.06-NIR)^2)
+                                      BAI = 1 / ((0.1+(Red))^2*(0.06-NIR)^2)
 
 Which Red is a red band and NIR is near infrared band. The value range of the BAI is 0 to 100.
 The difference between post-BAI and pre-BAI was used to estimate the burn severity. The high value of the difference will represent severe damage, low and negative values representing the less damaged area.
@@ -31,7 +31,7 @@ This index's primary use is monitoring different water bodies. Therefore, it hel
 
 Normalized Difference Water Index (NDWI) calculated using the following formula: 
 
-                                                    NDWI = (NIR – SWIR) / (NIR + SWIR)
+                                       NDWI = (NIR – SWIR) / (NIR + SWIR)
 
  Which NIR is a red band and SWIR is a shortwave infrared. The value range of the NDWI is -1 to 1.
 
@@ -40,7 +40,7 @@ Normalized Difference Water Index (NDWI) calculated using the following formula:
 The rainforest is considered the much-effected area by deforestation and losing trees, so it is very important to build a system to monitor the vegetation and detect the much-effected areas by deforestation. Google engine can monitor the vegetation using a time series of images and highlight the affected area. This app shows the capability of GEE for monitoring vegetation. By analyzing the difference of NDVI between two images acquired at different dates.  
 
          
-                                                    NDVI = (NIR – Red) / (NIR + Red)
+                                        NDVI = (NIR – Red) / (NIR + Red)
 
 Which NIR is a near infrared band and Red is a red band. NDVI values range from -1 to 1.
 
