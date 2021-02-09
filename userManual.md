@@ -14,14 +14,14 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 2- Select the dates before and after the event from the Date Dlider. Then, click on the "Get the Images" button to tell GEE to find the appropriate images on the selected dates.
 
 <p align="center">
-![Date Slider](images/3.PNG)
+![Date Slider](<img src="images/3.PNG" />
 </p>
 
 
 * In case images are not available in the database, the alert message will pop-up to tell the user to change the date. 
 
 <p align="center">
-![Warning Message](images/alert.PNG)
+<img src="images/4.PNG" />
 </p>
 
 
@@ -29,20 +29,20 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 4- select the type of emergency: deforestation, flood, or forest fires.
 
 <p align="center">
-![Emergency Options](images/4.PNG)
+<img src="images/5.PNG" />
 </p>
 
 
 *The user can select the map layers that appear in the study area.
 
 <p align="center">
-![Selected Layers](images/5.PNG)
+<img src="images/6.PNG" />
 <p>
 
 5- Cut the affected area, then download it, use it locally.
 
 <p align="center">
-![Clip & Download the results](images/6.PNG)
+<img src="images/7.PNG" />
 <p>
   
 [Go Back](README.md)
