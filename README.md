@@ -9,7 +9,7 @@ This project focuses on providing an online tool to help the emergency responder
                                              https://masawdah.users.earthengine.app/view/emergency-management
 
 ## Why Google Engine ?
-This app was developed using Google earth engine JavaScript API. One of the most important reasons to use the google earth engine (GEE) is the massive amount of available imagery available these days. And GEE makes the process of analysis very easy and automated even if the user machine is old and slow.For more information about the google earth engine, click [here](googleEngine.md).
+This app was developed using Google earth engine JavaScript API. One of the most important reasons to use the google earth engine (GEE) is the massive amount of available imagery. And GEE makes the process of analysis very easy and automated even if the user machine is old and slow.For more information about the google earth engine, click [here](googleEngine.md).
 
 ## Describe the code 
 The code used Google Earth Engine (GEE) through JavaScript API.  It is an open-source library, and the app's code can be accessed by the user and modify it and build more functionality depending on what the user needs. [Here](codeUse.md) youwill find steps to download the code, what the user needs to start use and modify it, and how it can run online.  
