@@ -2,13 +2,12 @@
 Navigate to the study area using the bookmarks, then follow the following steps:
 
 
-1- The user is required to set the location of the area using points, lines, or polygons. 
+1- The user is required to set the location of the area using points, lines, or polygons tools from the drawing toolbar. 
 
 
+                                                  ![Draw tools](images/2.PNG)
 
-![Draw tools](images/2.PNG)
 
-*Fig. 1 - Draw tools*
 
 
 2- Select the dates before and after the event. Then, click on the "Get the Images" button to tell GEE to find the appropriate images on the selected dates.
