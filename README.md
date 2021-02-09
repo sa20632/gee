@@ -11,7 +11,7 @@ The user can test the app using any case study that he/she knows or use the case
 
 
 ## Why Google Engine ?
-Moving the questions to the data is more efficient than moving the data to the questions (Jim gray). The previous sentence describes the power of the Google Earth Engine very well because it provides a massive amount of images from different sources to analyze them on the cloud without downloading them. The fantastic part is that you do not want to do the geoprocessing tasks on your machine. Instead, you send a request to the Google Engine server about the geoprocessing tool or algorithm you want to perform, and results will be sent in no time.
+Moving the questions to the data is more efficient than moving the data to the questions (Jim gray). The previous sentence describes the power of the Google Earth Engine very well because it provides a massive amount of images from different sources to analyze them on the cloud without downloading them. The fantastic part is that you do not want to do the geoprocessing tasks on your machine. Instead, you send a request to the Google Engine server about the geoprocessing tool or algorithm you want to perform, and the results will be sent in no time.
 
 With just one click, the google engine will automatically check new daily images and automatically run your algorithm, including the new images in the analysis and sending new results. Google engine makes it possible and easy to build a monitoring system for different environment purposes, such as vegetation, by analyzing a huge amount of daily images using a very modern and fast server and providing updated results actively and efficiently.
 
