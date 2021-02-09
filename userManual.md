@@ -4,8 +4,8 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 1- The user is required to set the location of the area using points, lines, or polygons tools from the drawing toolbar. 
 
-
-   ![Draw tools](images/2.PNG)
+<div style="text-align:center"><img src="images/2.PNG" /></div>
+  
 
 
 
