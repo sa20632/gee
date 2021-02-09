@@ -1,7 +1,7 @@
 # Remote Sensing Indices
 This app was developed to help in different emergencies to detect the affected area using various remote sensing indices depending on the type of disaster to get precise results for a damaged area. 
 
-This tool used three different indices, namely Normal Burn Area Index (BAI),  Normalized Difference Water Index (NDWI), and  Normalized Difference Vegetation Index (NDVI). These indices were used for the following disasters forest fire, flood, and deforestation, respectively. 
+three different indices were used, namely Normal Burn Area Index (BAI),  Normalized Difference Water Index (NDWI), and  Normalized Difference Vegetation Index (NDVI). These indices were used for the following disasters forest fire, flood, and deforestation, respectively. 
 
 
 ## Normal Burn Area Index (BAI)
@@ -11,6 +11,7 @@ It was used to detect the burn area. In this case, Burn Area Index (BAI) was use
 
 Which Red is a red band and NIR is near infrared band. The value range of the BAI is 0 to 100.
 The difference between post-BAI and pre-BAI was used to estimate the burn severity. The high value of the difference will represent severe damage, low and negative values representing the less damaged area.
+BAI was used to detect the burnt area for wildfires in Emperador, Chile. 
 
 
 ## Normalized Difference Water Index (NDWI) 
@@ -24,11 +25,12 @@ NDWI was used to detect the affected area by Russian river flooding in Californi
 
 
 ## Normalized Difference Vegetation Index (NDVI)
-The rain forest considered as the much-effected area by deforestation and losing tress, so it very important to build a system to monitor the vegetation and detect the much-effected area by deforestation. Google engine has a capability to monitor the vegetation during a long time using a time series of image and highlight the effected area. This app let the user to detect the clearance area of trees between two images b applying NDVI algorithm on the two images and then use map algebra to detect the change between the images.
+The rainforest is considered the much-effected area by deforestation and losing trees, so it is very important to build a system to monitor the vegetation and detect the much-effected areas by deforestation. Google engine can monitor the vegetation using a time series of images and highlight the affected area. This app shows the capability of GEE for monitoring vegetation. By analyzing the difference of NDVI between two images acquired at different dates.  
+
          
                                                     NDVI = (NIR – Red) / (NIR + Red)
 
-Which NIR is a near infrared band and Red is a red band
+Which NIR is a near infrared band and Red is a red band. NDVI values range from -1 to 1.
 
 
                                                      
