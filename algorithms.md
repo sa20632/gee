@@ -11,6 +11,7 @@ It was used to detect the burn area. In this case, Burn Area Index (BAI) was use
 
 Which Red is a red band and NIR is near infrared band. The value range of the BAI is 0 to 100.
 The difference between post-BAI and pre-BAI was used to estimate the burn severity. The high value of the difference will represent severe damage, low and negative values representing the less damaged area.
+
 BAI was used to detect the burnt area for wildfires in Emperador, Chile. 
 
 
