@@ -46,7 +46,7 @@ Which NIR is a near infrared band and Red is a red band. NDVI values range from 
 
 
 ## User Manual
-A user manual was designed to assist the users. This guide describes the apps' functionality, describing the tools available on it, and how the user can download the results on his machine. [Click Here](usermanual/userManual.md) to see the manual.  
+A user manual was designed to assist the users. This guide describes the apps' functionality, describing the tools available on it, and how the user can download the results on his machine. [Click Here](/usermanual/userManual.md) to see the manual.  
 
 
 
