@@ -10,7 +10,7 @@ Three different indices were used, namely Normal Burn Area Index (BAI),  Normali
 The user can test the app using any case study that he/she knows or use the case studies mentioned in the following sections, with guidance from the [user manual](userManual.md).
 
 
-## Why Google Engine ?
+## Why Google Earth Engine ?
 Moving the questions to the data is more efficient than moving the data to the questions (Jim gray). The previous sentence describes the power of the Google Earth Engine very well because it provides a massive amount of images from different sources to analyze them on the cloud without downloading them. The fantastic part is that you do not want to do the geoprocessing tasks on your machine. Instead, you send a request to the Google Engine server about the geoprocessing tool or algorithm you want to perform, and the results will be sent in no time.
 
 With just one click, the google engine will automatically check new daily images and automatically run your algorithm, including the new images in the analysis and sending new results. Google engine makes it possible and easy to build a monitoring system for different environment purposes, such as vegetation, by analyzing a huge amount of daily images using a very modern and fast server and providing updated results actively and efficiently.
@@ -46,7 +46,7 @@ Which NIR is a near infrared band and Red is a red band. NDVI values range from 
 
 
 ## User Manual
-A user manual was designed to assist the users. This guide describes the apps' functionality, describing the tools available on it, and how the user can download the results on his machine. [Click Here](userManual.md) to see the manual.  
+A user manual was designed to assist the users. This guide describes the apps' functionality, describing the tools available on it, and how the user can download the results on his machine. [Click Here](usermanual/userManual.md) to see the manual.  
 
 
 
