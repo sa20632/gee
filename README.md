@@ -11,7 +11,9 @@ The user can test the app using any case study that he/she knows or use the case
 
 
 ## Why Google Engine ?
-This app was developed using Google earth engine JavaScript API. One of the most important reasons to use the google earth engine (GEE) is the massive amount of available imagery. And GEE makes the process of analysis very easy and automated even if the workstation is old and slow.For more information about the google earth engine, click [here](https://earthengine.google.com/).
+Moving the questions to the data is more efficient than moving the data to the questions (Jim gray). The previous sentence describes the power of the Google Earth Engine very well because it provides a massive amount of images from different sources to analyze them on the cloud without downloading them. The fantastic part is that you do not want to do the geoprocessing tasks on your machine. Instead, you send a request to the Google Engine server about the geoprocessing tool or algorithm you want to perform, and results will be sent in no time.
+
+With just one click, the google engine will automatically check new daily images and automatically run your algorithm, including the new images in the analysis and sending new results. Google engine makes it possible and easy to build a monitoring system for different environment purposes, such as vegetation, by analyzing a huge amount of daily images using a very modern and fast server and providing updated results actively and efficiently.
 
 ## Describe the code 
 The code used Google Earth Engine (GEE) through JavaScript API.  It is an open-source library, and the user can access the app's code, modify it, and add more functionality. [Here](codeUse.md) you will find the guidance to download the code.  
