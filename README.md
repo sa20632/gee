@@ -7,7 +7,7 @@ This project aims to show how Google Earth Engine can help the emergency respond
 
 Three different indices were used, namely Normal Burn Area Index (BAI),  Normalized Difference Water Index (NDWI), and  Normalized Difference Vegetation Index (NDVI). These indices were used for the following disasters forest fire, flood, and deforestation, respectively.
 
-The user can test the case studies mentioned in the following sections, with guidance from the [user manual] (userManual.md).
+The user can test the case studies mentioned in the following sections, with guidance from the [user manual](googleEngine.md).
 
 
 ## Why Google Engine ?
