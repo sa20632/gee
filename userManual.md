@@ -18,7 +18,7 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 </p>
 
 
-      * In case images are not available in the database, the alert message will pop-up to tell the user to change the date. 
+                     In case images are not available in the database, the alert message will pop-up to tell the user to change the date. 
 
 <p align="center">
 <img src="images/alert.PNG" />
@@ -33,7 +33,7 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 </p>
 
 
-            * The user can select the map layers that appear in the study area.
+                                                      The user can select the map layers that appear in the study area.
 
 <p align="center">
 <img src="images/5.PNG" />
@@ -41,7 +41,7 @@ Navigate to the study area using the bookmarks, then follow the following steps:
 
 
 
-5- Cut the affected area, then download it, use it locally.
+5- Cut the affected area, then download it.
 
 <p align="center">
 <img src="images/6.PNG" />
