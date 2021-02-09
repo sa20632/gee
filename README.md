@@ -1,7 +1,4 @@
 # Remote Sensing Indices using Google Earth Engine for Emergency Eanagement
- Mohammad Alasawedah (masawdah@gmail.com)
-
- Filip Loncar  (m20190032@novaims.unl.pt)
 
 ## The goal of the project
 This project aims to show how Google Earth Engine can help the emergency responders and the decision-makers. By detecting the affected area by natural disaster using remote sensing indices. Then let the user download the results and use them in further analysis with a local database, use the below link to see the app: 
