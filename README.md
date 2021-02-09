@@ -2,9 +2,9 @@
 
 ## The goal of the project
 This project aims to show how Google Earth Engine can help the emergency responders and the decision-makers. By detecting the affected area by natural disaster using remote sensing indices. Then let the user download the results and use them in further analysis with a local database, use the below link to see the app: 
-
-                                  https://masawdah.users.earthengine.app/view/emergency-management
-
+<p align="center">
+https://masawdah.users.earthengine.app/view/emergency-management
+</P>
 Three different indices were used, namely Normal Burn Area Index (BAI),  Normalized Difference Water Index (NDWI), and  Normalized Difference Vegetation Index (NDVI). These indices were used for the following disasters forest fire, flood, and deforestation, respectively.
 
 The user can test the app using any case study that he/she knows or use the case studies mentioned in the following sections, with guidance from the [user manual](userManual.md).
