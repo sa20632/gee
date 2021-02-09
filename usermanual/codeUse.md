@@ -22,4 +22,4 @@ The following figure shows the google earth engine platform that the user can us
 
 
 
-[Go Back](README.md)
+[Go Back](/README.md)
