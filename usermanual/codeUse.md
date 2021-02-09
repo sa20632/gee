@@ -17,7 +17,7 @@ Google Engine provides a [full tutorial](https://developers.google.com/earth-eng
 
 The following figure shows the google earth engine platform that the user can use to test, rebuild and modify the code.
 
-![Earth Engine Code Editor](images/1.png)
+![Earth Engine Code Editor](/images/1.png)
 *Fig. 1 - The Earth Engine Code Editor*
 
 
