@@ -1,4 +1,4 @@
-# TEST
+# TEST 2
 # Remote Sensing Indices using Google Earth Engine for Emergency Eanagement
 
 ## The goal of the project
